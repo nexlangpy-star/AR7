@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+AR7/UR7.cpython-313.so
+AR7/__init__.py
+AR7/libpython3.1N.so
+AR7/python4
+AR7.egg-info/PKG-INFO
+AR7.egg-info/SOURCES.txt
+AR7.egg-info/dependency_links.txt
+AR7.egg-info/not-zip-safe
+AR7.egg-info/top_level.txt

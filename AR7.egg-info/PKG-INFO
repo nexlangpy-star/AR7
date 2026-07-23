@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: AR7
+Version: 1.3.6
+Summary: BETA 1.2
+Author: devil
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Dynamic: author
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: summary
